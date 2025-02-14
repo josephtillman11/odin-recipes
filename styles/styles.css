@@ -1,0 +1,15 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header {
+    color: gray;
+    background-color: rgb(203, 240, 235);
+    text-align: center;
+}
+a {
+    color: rgb(0, 162, 255)
+}
+.recipe-photo {
+    height: auto;
+    width: 300px
+}
